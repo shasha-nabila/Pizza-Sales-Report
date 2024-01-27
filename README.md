@@ -1,5 +1,5 @@
 # Pizza Sales Report
-This is an inspired project by Swapnjeet S from his [Youtube video](https://www.youtube.com/watch?v=lrl0vz-p-yc).
+This project was inspired by Swapnjeet S's [Youtube video](https://www.youtube.com/watch?v=lrl0vz-p-yc).
 <br>
 
 ## Problem Statement
