@@ -16,3 +16,9 @@ Analyzing pizza sales data to understand business performance and customer prefe
 
 ### Attributions
 - Special thanks to [Swapnjeet S](https://www.linkedin.com/in/datatutorials/) for his invaluable guidance and insights throughout this project.
+- Icons:
+  - Total revenue icon: <a href="https://www.flaticon.com/free-icons/deposit" title="deposit icons">Deposit icons created by Freepik - Flaticon</a>
+  - Average Order icon: <a href="https://www.flaticon.com/free-icons/online-order" title="online order icons">Online order icons created by Freepik - Flaticon</a>
+  - Total Pizzas icon: <a href="https://www.flaticon.com/free-icons/pizza" title="pizza icons">Pizza icons created by Freepik - Flaticon</a>
+  - Total Orders icon: <a href="https://www.flaticon.com/free-icons/pizza-shop" title="pizza shop icons">Pizza shop icons created by Aranagraphics - Flaticon</a>
+  - Average Pizza icon: <a href="https://www.flaticon.com/free-icons/isometric" title="isometric icons">Isometric icons created by Nsit - Flaticon</a>
