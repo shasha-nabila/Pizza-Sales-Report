@@ -8,9 +8,10 @@ Analyzing pizza sales data to understand business performance and customer prefe
 
 ### Tools
 - Microsoft SQL Server 19.3 - View [SQL Scripts]()
-- Tableau for data visualization - View [dashboard]()
+- Tableau for data visualization - View [dashboard](https://public.tableau.com/views/PizzaSalesReport_17065525141110/Home?:display_count=n&:origin=viz_share_link)
 
 ### Dashboard
+[image]()
 
 ### Attributions
 - Special thanks to [Swapnjeet S](https://www.linkedin.com/in/datatutorials/) for his invaluable guidance and insights throughout this project.
