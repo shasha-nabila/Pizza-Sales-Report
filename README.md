@@ -7,7 +7,7 @@ Analyzing pizza sales data to understand business performance and customer prefe
 - Pizza sales data in 2015 provided by [Swapnjeet S](./pizza_sales.csv)
 
 ### Tools
-- Microsoft SQL Server 19.3 - View [SQL Scripts](./pizza_sales.sql)
+- Microsoft SQL Server 19.3 - View [SQL Script](./pizza_sales.sql)
 - Tableau for data visualization - View [dashboard](https://public.tableau.com/views/PizzaSalesReport_17065525141110/Home?:display_count=n&:origin=viz_share_link)
 
 ### Dashboard
